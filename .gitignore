@@ -1,0 +1,90 @@
+# Hệ điều hành
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# IDE và Editor
+# IntelliJ IDEA / WebStorm / PhpStorm
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# VSCode
+.vscode/
+.history/
+
+# Sublime Text
+*.sublime-workspace
+
+# PyCharm
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PHPStorm
+.phpstorm.meta.php
+
+# Visual Studio
+.vs/
+*.csproj.user
+*.suo
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Thư mục môi trường ảo (Python, PHP)
+venv/
+env/
+.env
+.phpunit.result.cache
+
+# Hệ quản trị CSDL (Database)
+*.sqlite3
+*.db
+
+# Ảnh hưởng của composer (PHP)
+composer.lock
+/vendor/
+
+# Các loại tệp khác không cần thiết
+*.bak
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
+*.log
+
+# Tệp cài đặt môi trường (Enviroment)
+.env
+.env.*
